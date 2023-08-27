@@ -1,15 +1,13 @@
 {
-  "podcast": "Money Talks",
-  "episode_title": "Counting the Cost of Education",
-  "host": "Host Name",
-  "date": "Episode Date",
-  "description": "In this episode of Money Talks, we delve into the economics of education and the rising costs associated with higher education. Experts discuss the factors contributing to the increasing price of education, including tuition fees, student loans, and the demand for specialized skills. The episode explores potential solutions for making education more affordable and accessible for students and their families.",
-  "key_points": [
-    "Discussion about the soaring costs of higher education.",
-    "Exploration of the reasons behind the increase in tuition fees.",
-    "Insights into the impact of student loans on graduates and the economy.",
-    "Analysis of the demand for skills in the job market and its effect on education costs.",
-    "Conversations about potential strategies to address the affordability of education.",
-    "Expert opinions on the future of education and ways to make it more accessible."
-  ]
+  "podcast_details": {
+    "podcast_title": "Tech Talk",
+    "host": "Alice Smith",
+    "date": "2023-08-28",
+    "description": "Tech Talk is a podcast that explores the latest trends in technology and innovation.",
+    "key_points": [
+      "Discussions on AI, blockchain, and emerging tech.",
+      "Interviews with industry leaders and experts.",
+      "Insights into the future of tech and its impact on society."
+    ]
+  }
 }
