@@ -1,13 +1,19 @@
 {
   "podcast_details": {
-    "podcast_title": "Art Explorations",
-    "host": "Alex Turner",
-    "date": "2023-08-30",
-    "description": "Art Explorations delves into the world of visual arts, painting, and creativity.",
+    "podcast_title": "Tech Talk",
+    "episode_title": "Exploring Artificial Intelligence",
+    "episode_image": "path/to/episode/image.jpg",
+    "description": "In this episode, we dive into the world of artificial intelligence...",
     "key_points": [
-      "Artist interviews and studio visits.",
-      "Analysis of famous artworks and their significance.",
-      "Discussions on art techniques and inspiration."
+      "Discussion on various AI applications.",
+      "Insights from AI experts and researchers.",
+      "Ethical considerations in AI development."
     ]
-  }
+  },
+  "podcast_summary": "In this episode of Tech Talk...",
+  "podcast_guest": {
+    "name": "Dr. Jane Smith",
+    "summary": "Dr. Jane Smith is a leading AI researcher..."
+  },
+  "podcast_highlights": "1. AI in healthcare\n2. AI and automation\n3. Future of AI technology"
 }
